@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">JHott-Leitsch_FinalProject</string>
+    <string name="imgTomato">Tomato Image</string>
+    <string name="imgVeggies">Veggie Image</string>
+    <string name="imgCarrot">Carrot Image</string>
+    <string name="imgGreenBean">Green Bean Image</string>
+    <string name="imgPea">Pea Image</string>
+    <string name="imgPeppers">Peppers Image</string>
+    <string name="btnBack">PREV</string>
+    <string name="btnTomato">TOMATOES</string>
+    <string name="btnCarrot">CARROTS</string>
+    <string name="btnGreenBeans">GREEN BEANS</string>
+    <string name="btnPeas">PEAS</string>
+    <string name="btnPeppers">PEPPERS</string>
+    <string name="btnWelcome">Welcome</string>
+    <string name="txtTitle">Gardening Tips</string>
+    <string name="tipTomato">For maximum yield, always stake or cage plants.</string>
+    <string name="tipCarrot">Carrots grow best in cool temps. Mulch around the carrots will conserve water and keep the soil cool.</string>
+    <string name="tipGreenBean">DO NOT start green beans indoors. They may not survive transplanting!</string>
+    <string name="tipPeas">Peas have shallow feeder roots. Use mulch to conserve water and keep the soil cool.</string>
+    <string name="tipPeppers">Peppers are thirsty! Make sure they are in soil that has good drainage but retains moisture.</string>
+    <string name="btnNext">NEXT</string>
+    <string name="titleCarrots">A tip for carrots:</string>
+    <string name="titleTomatoes">A tip for tomatoes:</string>
+    <string name="titleGreenBeans">A tip for green beans:</string>
+    <string name="titlePeas">A tip for peas:</string>
+    <string name="titlePeppers">A tip for peppers:</string>
+    <string name="btnMenu">VIEW ALL</string>
+</resources>
